@@ -1,10 +1,10 @@
 # Pocket — Terms of Service
 
-_Last updated: 2026-07-28._
+_Last updated: 2026-10-13._
 
 ## 1. What Pocket is
 
-Pocket is a companion app that lets you operate AI agent runtimes (Claude Code, Codex, Hermes, OpenClaw) **running on a Mac you own or control**. Pocket is a remote control and viewer: it does not host the agents, does not provide the AI models, and does not process your data on our servers.
+Pocket is a companion app that lets you operate AI agent runtimes (Claude Code, Codex, Hermes, OpenClaw, Gemini) **running on a Mac you own or control**. Pocket is a remote control and viewer: it does not host the agents and does not provide the AI models. Your conversations, files and agent memory are processed on your own Mac, not on a server we operate — see the [Privacy Policy](./privacy.md) for the two narrow exceptions (the default public route passes through Cloudflare, and Sign in with Apple passes through one fixed host we run).
 
 By using Pocket you agree to these terms. If you do not agree, do not use the app.
 
@@ -59,7 +59,7 @@ You may stop using Pocket at any time by deleting it. We may suspend or disconti
 
 ## 10. Open-source components
 
-Pocket incorporates open-source software under its respective licences; attribution is provided in the app's Credits. Those licences govern those components.
+Pocket incorporates open-source software under its respective licences; those licences govern those components. Attribution and licence information is available on request at [m@tsai.cash](mailto:m@tsai.cash).
 
 ## 11. Governing law
 
